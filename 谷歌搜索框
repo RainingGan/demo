@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="GBK">
+  <title>Google</title>
+  <link rel="stylesheet" href="icon.css">
+  <link rel="stylesheet" href="google.css">
+</head>
+</head>
+<body>
+  <div id="1">
+    <p class="logo">
+      <img src="https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fphoto.16pic.com%2F00%2F54%2F00%2F16pic_5400531_b.jpg" alt="">
+    </p>
+    
+    <div class="search">
+      <input type="text">
+      <span class="iconfont icon-search"></span>
+      <span class="iconfont icon-mic"></span>
+    </div>  
+      
+    </div>
+    
+  </div>
+  
+  <div class="button">
+    <span class="sousuo">Google搜索</span>
+    <span class="shouqi">手气不错</span>
+  </div>
+  
+  <div class="lang">Google提供 : English</div>
+</body>
+</html>
